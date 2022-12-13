@@ -1,0 +1,16 @@
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\obj\Debug\net5.0\ExercicioExceptions2.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\obj\Debug\net5.0\ExercicioExceptions2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\obj\Debug\net5.0\ExercicioExceptions2.AssemblyInfoInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\obj\Debug\net5.0\ExercicioExceptions2.AssemblyInfo.cs
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\obj\Debug\net5.0\ExercicioExceptions2.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\bin\Debug\net5.0\ExercicioExceptions2.exe
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\bin\Debug\net5.0\ExercicioExceptions2.deps.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\bin\Debug\net5.0\ExercicioExceptions2.runtimeconfig.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\bin\Debug\net5.0\ExercicioExceptions2.runtimeconfig.dev.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\bin\Debug\net5.0\ExercicioExceptions2.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\bin\Debug\net5.0\ExercicioExceptions2.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\obj\Debug\net5.0\ExercicioExceptions2.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\obj\Debug\net5.0\refint\ExercicioExceptions2.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\obj\Debug\net5.0\ExercicioExceptions2.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\obj\Debug\net5.0\ExercicioExceptions2.genruntimeconfig.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions2\ExercicioExceptions2\obj\Debug\net5.0\ref\ExercicioExceptions2.dll
